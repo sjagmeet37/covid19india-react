@@ -9,6 +9,12 @@ import * as Icon from 'react-feather';
 
 import './App.scss';
 
+
+//test branch code 1
+//test branch code 1
+//test branch code 1
+//test branch code 1
+//test branch code 1
 import Home from './components/home';
 import Navbar from './components/navbar';
 import Links from './components/links';
