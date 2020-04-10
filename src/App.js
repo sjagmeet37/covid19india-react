@@ -8,6 +8,7 @@ import {
 import * as Icon from 'react-feather';
 
 import './App.scss';
+//test comment
 
 import Home from './components/home';
 import Navbar from './components/navbar';
